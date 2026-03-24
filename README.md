@@ -1,2 +1,4 @@
 # sql-datawarehouse-project
-Building a Data Warehouse
+---
+- **Building a Data Warehouse**
+- **Doing Analytics**
